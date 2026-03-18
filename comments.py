@@ -13,4 +13,6 @@ S-Pen support is unique and useful
 Cons:
 Not so Secure
 Very heavy phone
+
+Review by  Sarthak Gautam
 """
